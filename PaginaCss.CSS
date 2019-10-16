@@ -1,0 +1,29 @@
+
+#menu{
+    border: 1px;
+    width: 900px;
+}
+body{
+    
+    background-image: url('fundo.png');
+}
+#links{
+    background-color: #bcb062;
+    padding: 18px;
+    text-align: center;
+}
+a{
+    border: 1px;
+    font-family: Arial;
+    color: blue;
+    font-weight: bold;
+    background-color:#bcb062;
+    text-align: center;
+    padding: 5px;
+}
+#sobreanna{
+    border: 1px;
+    padding: 10px;
+    background-color: lemonchiffon;
+    font-family: Arial, Helvetica, sans-serif;
+}
